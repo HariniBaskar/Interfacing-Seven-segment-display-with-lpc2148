@@ -1,12 +1,15 @@
 # Interfacing-Seven-segment-display-with-lpc2148
 
 Name: Harini.B
+
 Roll no: 212221230035
+
 Date of experiment: 10-11-2022
 
 
 
 Ex. No. : 8
+
 Date: 10-11-2022
  
 
@@ -94,11 +97,14 @@ int main(void)
 ![display off](https://user-images.githubusercontent.com/93427253/201057739-421434c1-98b5-4b2c-9a23-f5760aa0301c.png)
 ### DISPLAY ON
 #### DIGIT
-![digit ](https://user-images.githubusercontent.com/93427253/201058024-670ee185-adfd-4b9d-a8cf-5528b7ff6c7c.png)
+![digit ](https://user-images.githubusercontent.com/93427253/201060382-37067a26-e9f5-4856-b787-bb1e4275a295.png)
+
 #### ALPHABET
-![letter](https://user-images.githubusercontent.com/93427253/201058133-c3f2e30e-4397-4e2b-a890-4f201617373f.png)
+![letter](https://user-images.githubusercontent.com/93427253/201060493-27de03b8-01d9-4a59-b68f-9ef19b569c42.png)
+
 #### CIRCUIT DIAGRAM
-![circuit diag](https://user-images.githubusercontent.com/93427253/201058433-93e3295f-8d03-419b-bcb5-78cc5e7d4e95.png)
+![circuit diag](https://user-images.githubusercontent.com/93427253/201060560-d89a829c-86af-4986-a8bc-8ea660c72728.png)
+
 
 ### Result :
 LED seven segment display is interfaced and displayed alpha numeric characters 
